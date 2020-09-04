@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Verma 👋
 
-> **_Passion for great desgin with a problem solving product keeps me going._**
+> **Passion for great desgin with a problem solving product keeps me going.**
 
 - 🔭 I’m currently working on something awesome.
 - 🌱 I’m currently learning **node.js** and **MongoDB**.
