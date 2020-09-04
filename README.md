@@ -8,5 +8,5 @@
 - 🥅️ 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to _Design_.
 
-:balloon: Website: [abhishekverma.dev](https://abhishekverma.dev)
-:magnet: Twitter: [@mrcreatist](https://www.twitter.com/mrcreatist)
+- :balloon: Website: [abhishekverma.dev](https://abhishekverma.dev)
+- :magnet: Twitter: [@mrcreatist](https://www.twitter.com/mrcreatist)
