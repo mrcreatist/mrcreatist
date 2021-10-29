@@ -1,7 +1,7 @@
 # Hi there, nice to see you! 👋
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-> **Passion for an excellent design problem solving product keeps me going.**
+> **Passion for an excellent design & a problem solving product keeps me going.**
 
 - 💼 I'm a FrontEnd Engineer at [Airtel Africa](https://airtel.africa/)
 - 🔭 Always working on something new.
