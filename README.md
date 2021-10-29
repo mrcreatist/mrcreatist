@@ -1,13 +1,14 @@
-# Hi there, I'm Abhishek Verma 👋
+# Hi there, nice to see you! 👋
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-> **Passion for an excellent desgin problem solving product keeps me going.**
+> **Passion for an excellent design problem solving product keeps me going.**
 
-- 🔭 I’m currently working on something new.
-- 🌱 I’m currently learning **node.js** and **MongoDB**.
-- 👯 I’m looking to collaborate on **Tasks** and **Orders**
-- 🥅️ 2020 Goals: Contribute more to Open Source projects
+- 💼 I'm a FrontEnd Engineer at [Airtel Africa](https://airtel.africa/)
+- 🔭 Always working on something new.
+- 🌱 Built [Tasks](https://www.github.com/mrcreatist/tasks) and [Orders]((https://www.github.com/mrcreatist/orders))
+- ❤️ I love writing TypeScript, and building fun experiments
 - ⚡ Fun fact: I love to _Design_.
 
 ### Let's connect
-- :balloon: Website: [abhishekverma.dev](https://abhishekverma.dev)
-- :magnet: Twitter: [@mrcreatist](https://www.twitter.com/mrcreatist)
+- :balloon: Website: [AbhishekVerma.dev](https://abhishekverma.dev)
+- :magnet: **@mrcreatist**: [Twitter](https://www.twitter.com/mrcreatist) | [Instagram](https://www.instagram.com/mrcreatist) | [LinkedIn](https://www.linkedin.com/in/mrcreatist)
