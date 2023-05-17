@@ -4,9 +4,8 @@ I'm a passionate Front End Developer from India 🇮🇳
 > **Passion for an excellent design & a problem solving product keeps me going.**
 
 - 💼 I'm SDE-2 at [DP World](https://www.dpworld.com/)
-- 🔭 looking to strong my fundamentals.
-- 🌱 Built [Tasks](https://www.github.com/mrcreatist/tasks) and [Orders](https://www.github.com/mrcreatist/orders)
-- ❤️ I love writing Javascript, and building fun experiments
+- 🔭 always looking to strong my fundamentals.
+- ❤️ I love writing Typescript, and building fun experiments
 - ⚡ Fun fact: I love to explore Google Earth in free time.
 
 ### Let's connect
